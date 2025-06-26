@@ -7,7 +7,7 @@ This project analyses the most suitable aircrafts to invest in
 Your company is expanding in to new industries to diversify its portfolio. Specifically, they are interested in purchasing and operating airplanes for commercial and private enterprises, but do not know anything about the potential risks of aircraft. You are charged with determining which aircraft are the lowest risk for the company to start this new business endeavor. You must then translate your findings into actionable insights that the head of the new aviation division can use to help decide which aircraft to purchase.
 
 ## Data
-The [data](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses) for this project was extracted from the National Transportation Safety Board that includes aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters.
+The [data](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses) for this project was extracted from the National Transportation Safety Board that includes aviation accident data from 1962 to 2021 about civil aviation accidents and selected incidents in the United States and international waters.
 
 ## Data Understanding and Cleaning
 This project involves a thorough analysis of various aircrafts, focusing on critical risk factors such as safety performance, maintenance costs, operational efficiency, and market viability. By employing data cleaning, imputation, analysis, and visualization techniques.
